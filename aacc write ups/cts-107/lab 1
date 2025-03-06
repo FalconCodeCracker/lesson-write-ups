@@ -1,1 +1,46 @@
+Part 1: Computer, Lab, and Textbook Resources
+
+  Personal Computer Information:
+    Computer Type: [Enter your computer type]
+    Brand/Manufacturer: [Enter brand]
+    Operating System: [Enter OS]
+  Azure Lab Services Registration:
+    Navigate to Azure Lab Services Registration
+    Sign in using AACC email and password
+    Locate and start the Windows 11 virtual machine (CTS-107)
+    Download and open the RDP file to connect to the virtual system
+    Log in using credentials:
+      Username: labadmin
+      Password: Network1
+  Set Up Microsoft OneDrive:
+    Open File Explorer in the virtual machine
+    Select OneDrive folder
+    Sign in using AACC email and password
+    Configure OneDrive for cloud storage access
+  Manage the Windows 11 Virtual Machine:
+    Resize and navigate between host OS and virtual machine
+    Open applications on both host OS and VM
+    Shut down Azure Windows 11 when finished
+  S Mode Check (Windows Users Only):
+    Navigate to Settings > System > About
+    Check Windows Specification section for S Mode
+    If in S Mode, follow the steps to disable it through Microsoft Store
+
+Part 2: Canvas Navigation
+
+  Accessing the Canvas Classroom:
+    Log in to AACC Canvas
+    Navigate to the CTS 107 course page
+    Locate "Grades" in the navigation pane
+  Screen Capture Practice:
+    Take a screenshot of the "Grades" page
+    Save and submit as required for the lab
+
+Lab Submission Requirements:
+  Complete all sections and answer provided questions
+  Provide required screen captures
+  Ensure the use of a Windows 11 desktop via Azure Lab Services
+  Submit completed lab through Canvas
+
+This concludes the introductory lab for CTS 107. Proper setup of the Azure Lab environment and familiarity with Canvas are essential for success in the course.
 
