@@ -1,0 +1,29 @@
+Module 3: Lab 3.1 Write-Up
+Objective:
+The purpose of this lab was to deepen our understanding of number systems, specifically binary and hexadecimal, and their application in digital data representation. Through this exercise, I explored how binary numbering systems represent data, how to convert between different number systems (binary, decimal, and hexadecimal), and the role these systems play in the representation of characters, images, and audio.
+
+Tools/Technologies:
+Technology in Action textbook (Chapters 2 and 4)
+Khan Academy video tutorials on number systems and binary/hexadecimal conversions
+Module 3 Learning Activities
+Software tools for practicing binary and hexadecimal conversions
+Procedure:
+Readings and Research: I started by carefully reviewing the assigned chapters from Technology in Action, specifically Chapters 2 and 4, which covered digital components and number systems. Additionally, I viewed the Khan Academy videos on binary, hexadecimal, and conversions between decimal and binary numbering systems.
+
+Binary and Hexadecimal Conversion: I practiced converting numbers between decimal, binary, and hexadecimal using the examples provided in the lab instructions. I also explored how digital data, such as text characters and images, are represented through these number systems.
+
+Data Representation: I worked through exercises on how data types such as characters, integers, and booleans are represented in binary form. I also learned about ASCII encoding and how images and audio are digitized for computer storage.
+
+Steganography: A key focus of the lab was understanding steganography, where I learned how hidden messages can be encoded within image files. This concept was explored in the accompanying discussion.
+
+Code Explanation:
+Binary & Hexadecimal Representation: I demonstrated the conversion between different number systems using examples such as converting a decimal number (e.g., 255) into binary (11111111) and hexadecimal (FF). I also explored encoding characters into binary using ASCII codes.
+Steganography: Although the lab didn't include actual coding, I explored the concept of steganography, learning how messages can be hidden in the least significant bits of an image file’s pixel data.
+Challenges:
+One of the biggest challenges was ensuring that I fully understood how binary values are used to represent data and how to convert between the number systems without mistakes. I spent additional time reviewing Khan Academy’s video tutorials and practicing on conversion exercises to improve my skills.
+
+Outcome:
+By the end of the lab, I was able to confidently convert between binary, decimal, and hexadecimal systems. I gained a solid understanding of how digital data is represented and manipulated within computers. The exploration of steganography was also fascinating and provided an additional layer of insight into how data security and hidden messaging work in digital environments.
+
+Conclusion:
+This lab provided valuable hands-on experience with essential concepts in computer science, such as number systems, data encoding, and steganography. The exercises helped solidify my understanding of binary and hexadecimal systems, which are foundational for understanding how computers handle data. Additionally, I gained a deeper appreciation for the security implications of hidden data and how encoding can be used creatively for various purposes, such as steganography.
