@@ -1,0 +1,29 @@
+Module 9: Lab 9.1 Write-Up
+Objective:
+The goal of this lab is to understand the various threats to computer systems, including identity theft, hacking, viruses, malware, and social engineering. This module will also cover encryption and its importance in securing digital data and devices.
+
+Tools/Technologies:
+Technology in Action textbook (Security chapters)
+Internet resources on malware and encryption
+Command-line tools (e.g., netstat, firewall settings)
+Procedure:
+Reading and Research: I started by reading the assigned chapters from the Technology in Action textbook, focusing on securing systems, protecting digital data, and understanding how hackers operate. I also explored articles on malware and encryption.
+
+Exploring Identity Theft: I reviewed how identity theft is committed and the various scams that identity thieves use. By reading about phishing, data breaches, and social engineering, I gained a better understanding of how these crimes happen.
+
+Understanding Hacking and Malware: I learned about the different types of hackers—white hats, black hats, and gray hats—and the tools they use to exploit systems. I also studied the types of malware, including viruses, worms, and Trojans, and how they threaten computer systems.
+
+Malware and Protection: I researched different forms of malware and their impact on system security. I explored ways to protect systems from these threats, including installing antivirus software and applying security patches. Additionally, I reviewed how encryption helps protect data from unauthorized access.
+
+Social Engineering: Social engineering techniques, such as pretexting and baiting, were studied in detail. I learned strategies to avoid falling victim to social engineering, like being cautious about unsolicited emails, phone calls, or text messages.
+
+Encryption: I examined how encryption is used to secure data, especially when transmitted over the Internet. I explored different types of encryption protocols, such as SSL/TLS, and their importance in safeguarding data during online transactions.
+
+Practical Application: I completed Lab 9.0, which involved applying some of the security concepts learned, such as identifying and preventing malware infections, and setting up encryption for safe browsing.
+
+Outcome:
+By completing this lab, I gained hands-on experience with identifying security threats, understanding how hackers operate, and learning methods to protect against various types of attacks. The focus on malware and encryption helped me understand how to secure data effectively.
+
+Conclusion:
+This lab was crucial in building an understanding of the different threats that computer systems face and how to protect against them. By understanding the role of identity theft, hacking, malware, and encryption, I now have a clearer picture of how to safeguard systems and personal data in the digital world.
+
