@@ -1,0 +1,24 @@
+Module 11: Lab 11.1 Write-Up
+Objective:
+The goal of this lab is to introduce students to programming concepts, including pseudo code, modern programming languages, and secure coding practices. We will create simple programs, develop algorithms, and practice creating flowcharts using a flowcharting tool (Flowgorithm).
+
+Tools/Technologies:
+Technology in Action textbook (Software Programming chapter)
+Flowgorithm software (for creating flowcharts and pseudo code)
+Procedure:
+Reading and Research: I started by reading the assigned chapter from Technology in Action, which focused on software programming and how programs are developed. This reading provided insights into the characteristics of modern programming languages and the role of algorithms in software development.
+
+Pseudo Code and Flowcharting: I learned how pseudo code can be used to outline algorithms before they are translated into actual programming code. To practice, I used Flowgorithm to create flowcharts that represented pseudo code for simple tasks. Flowgorithm allowed me to visualize the flow of logic in my programs.
+
+Creating Simple Programs: I wrote simple programs using pseudo code and then converted them into flowcharts with Flowgorithm. This process helped me understand how structured logic can be developed before coding it in a specific programming language.
+
+Exploring Secure Programming: I reviewed the article on secure coding practices. I learned about the importance of writing secure code to prevent vulnerabilities. The article provided a list of secure coding practices that are essential for modern developers to follow, including input validation, proper error handling, and avoiding hardcoded sensitive data.
+
+Hands-on Practice: I completed Lab 11.0, which involved creating pseudo code and flowcharts for simple programming tasks. I also worked with the Flowgorithm software to design, test, and refine flowcharts, which helped me gain a better understanding of how algorithms are implemented visually.
+
+Outcome:
+The lab provided me with the opportunity to practice writing pseudo code and creating flowcharts, which are crucial steps in software development. I gained hands-on experience with Flowgorithm and began developing a deeper understanding of how algorithms drive program logic. Additionally, I learned about secure coding practices that are necessary for building robust and secure software.
+
+Conclusion:
+This lab helped me understand the fundamental aspects of programming, including algorithm design, pseudo code, and secure coding practices. Using Flowgorithm allowed me to visualize program logic and think critically about how to structure code. The focus on secure programming also highlighted the importance of developing secure software to protect against vulnerabilities.
+
