@@ -1,0 +1,33 @@
+Module 10: Lab 10.1 Write-Up
+Objective:
+The purpose of this lab is to explore how firewalls, antivirus software, password management, and backup strategies work to protect computer systems. We will also delve into concepts such as multi-factor authentication (MFA), data recovery, and defense-in-depth.
+
+Tools/Technologies:
+Technology in Action textbook (Security chapters)
+Firewall configuration tools
+Antivirus software
+Digital forensics tools
+Procedure:
+Reading and Research: I began by reading the assigned chapters from the Technology in Action textbook. I focused on topics like securing digital property, understanding the CIA Triad (Confidentiality, Integrity, and Availability), and defense-in-depth strategies.
+
+Understanding Firewalls: I explored how firewalls work to protect systems by filtering incoming and outgoing traffic based on set security rules. I learned about different types of firewalls, such as network-based and host-based, and how they prevent unauthorized access to a network.
+
+Password Security: I reviewed the importance of strong passwords and the role of multi-factor authentication (MFA) in securing accounts. By watching videos on password cracking, I learned how easily weak passwords can be exploited by hackers, emphasizing the importance of using unique and complex passwords.
+
+Anti-Virus and Anti-Malware: I studied how antivirus and anti-malware software function to detect and remove harmful software. I watched a video on how these programs work and set up antivirus software to protect my system from various threats.
+
+Backup Strategies: I examined different types of backups (full, incremental, differential) and their advantages in protecting data from loss. I practiced creating backups and restoring files to ensure the process works smoothly.
+
+Data Recovery with Digital Forensics: I explored how deleted data can be recovered using digital forensics tools. I watched a demonstration on how forensic tools are used to recover files and understand the importance of secure data deletion practices.
+
+CIA Triad: I studied the CIA Triad and its role in information security. I learned how each component—Confidentiality, Integrity, and Availability—plays a crucial part in maintaining the security of systems and data.
+
+Defense-in-Depth: I explored the concept of defense-in-depth, which involves using multiple layers of security measures to protect systems from attacks. This approach includes firewalls, antivirus software, encryption, and physical security.
+
+Practical Application: I completed Lab 10.0, which involved configuring a firewall, setting up antivirus protection, creating a backup, and experimenting with digital forensics tools for data recovery. The lab provided hands-on experience with these security tools and practices.
+
+Outcome:
+By completing this lab, I gained practical knowledge of how firewalls, antivirus software, and backups help protect systems from various threats. I also learned about the importance of secure passwords, MFA, and data recovery practices in maintaining digital security.
+
+Conclusion:
+This lab helped me better understand the importance of layered security and the various tools and strategies used to protect digital property. It emphasized the significance of combining technical measures like firewalls and antivirus programs with best practices such as strong passwords and regular backups.
