@@ -1,0 +1,71 @@
+Module 12: Lab 12.1 Write-Up
+Objective:
+The objective of this lab is to learn the basics of shell scripts and batch files. By the end of the module, students will be able to define shell scripts and create basic scripts to automate tasks.
+
+Tools/Technologies:
+Shell script environment (e.g., Linux terminal)
+Text editor (e.g., nano, vim)
+Procedure:
+Introduction to Shell Scripts:
+
+I reviewed the material on shell scripts and batch files. Shell scripts are a series of commands that are executed by the shell, which is a command-line interpreter. I learned that they are used to automate tasks in the operating system.
+Creating Shell Scripts:
+
+I created a basic shell script that automates a simple task. For example, I wrote a script that displays the current date and time and lists the files in the directory. The script contained the following code:
+
+bash
+Copy
+Edit
+#!/bin/bash
+echo "Current date and time: $(date)"
+echo "List of files:"
+ls
+This script starts with a "shebang" (#!/bin/bash) which tells the shell to use the Bash interpreter. The echo command prints the text, and ls lists the files in the current directory.
+
+Running Shell Scripts:
+
+To run the script, I saved it as my_script.sh, made it executable with the following command:
+
+bash
+Copy
+Edit
+chmod +x my_script.sh
+Then, I executed the script by running:
+
+bash
+Copy
+Edit
+./my_script.sh
+Batch Files:
+
+I also learned about batch files, which are scripts that run in the Windows command-line environment. The batch file I created was a simple script that echoed a message:
+
+batch
+Copy
+Edit
+@echo off
+echo Hello, this is a batch file!
+pause
+The @echo off command disables the display of each command as it is executed, and the pause command keeps the window open after the script runs.
+
+Experimenting with More Complex Commands:
+
+After completing the basic scripts, I explored using variables and loops in shell scripts. For example, I wrote a script that prints numbers from 1 to 5:
+
+bash
+Copy
+Edit
+#!/bin/bash
+for i in {1..5}
+do
+    echo "Number $i"
+done
+Lab Completion:
+
+I followed the instructions in Lab 12.0, which provided a series of tasks to practice creating and executing shell scripts. The exercises helped reinforce my understanding of how to automate simple tasks and how shell scripting works.
+Outcome:
+By completing the lab, I successfully created and executed shell scripts that automate tasks in a Linux environment. I also experimented with creating batch files for Windows systems. These exercises helped me understand the functionality of shell scripting and how they can be used to streamline various administrative tasks.
+
+Conclusion:
+The lab provided an introduction to shell scripts and batch files, which are essential for automating tasks and improving efficiency in system administration. I now feel more comfortable with the basic concepts of shell scripting and am prepared to create more complex scripts for different use cases.
+
