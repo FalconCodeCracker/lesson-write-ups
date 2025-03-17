@@ -1,0 +1,31 @@
+Module 4: Lab 4.1 Write-Up
+Objective:
+The goal of this lab was to introduce and practice virtualization technology, including setting up virtual machines, understanding cloud computing, and learning about the structure and uses of virtualization in computer systems.
+
+Tools/Technologies:
+Technology in Action textbook (overview of virtualization)
+Online resources about Virtualization 2.0 and Cloud Computing
+Virtualization software (e.g., VMware, VirtualBox) for setting up virtual machines
+Procedure:
+Reading and Research: I began by reading through the required materials on virtualization and cloud computing. I explored the concept of virtualization through the Virtualization 2.0 tutorial, which detailed its structure, common uses, and the pros and cons of using virtual machines.
+
+Video Learning: I watched the video that provided an overview of virtualization. The video explained how virtualization allows one physical machine to host multiple virtual machines, improving resource utilization and flexibility.
+
+Hands-on Practice: I followed the Lab 4.0 instructions to set up a virtual machine and installed a guest operating system. I practiced moving files between the host and guest operating systems, gaining an understanding of how data is transferred in a virtualized environment.
+
+Discussion Participation: I joined the discussion on cloud computing, where I shared insights on how cloud services are revolutionizing data storage and application hosting. The discussion helped me further understand the relationship between virtualization and cloud computing.
+
+Lab Completion: I completed the practice lab exercises, which involved setting up virtual environments, installing software, and managing virtual machines. This hands-on experience allowed me to see firsthand how virtual machines interact with the host system.
+
+Code Explanation:
+This lab did not involve coding, as it focused on practical experience with virtualization software. The main learning objective was to understand how virtual machines are set up and how they interact with the host system.
+
+Challenges:
+One of the more challenging aspects was configuring the virtual machine to properly communicate with the host operating system. Additionally, understanding the different types of virtualization (Type I and Type II) took a bit of time to grasp fully.
+
+Outcome:
+By completing this lab, I gained practical experience with virtualization technologies, including the setup and management of virtual machines. I also gained a clearer understanding of the relationship between virtualization and cloud computing.
+
+Conclusion:
+This lab reinforced the importance of virtualization in modern computing environments, particularly in terms of resource optimization and flexibility. Understanding virtualization and its relationship with cloud computing is a crucial skill for future IT professionals.
+
