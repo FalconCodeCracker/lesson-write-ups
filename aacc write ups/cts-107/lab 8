@@ -1,0 +1,26 @@
+Module 8: Lab 8.1 Write-Up
+Objective:
+The goal of this lab is to understand the management of the Internet, how Internet components interact, the role of protocols in data transmission, and the addressing methods (e.g., IP and MAC addresses). Additionally, this lab will cover how a numeric IP address is mapped to a domain name (DNS).
+
+Tools/Technologies:
+Technology in Action textbook (Internet chapters)
+Internet resources on Internet management and IP addressing
+Command-line tools (e.g., ipconfig, ping, nslookup)
+Procedure:
+Reading and Research: I read the assigned sections from Technology in Action about how the Internet works, including chapters on Internet management, IP addressing, and DNS. These sections helped me understand how the Internet is structured and how data is transmitted over networks.
+
+Hands-on Practice: In Lab 8.0, I practiced using various command-line tools to examine network settings. I used ipconfig to view my device's IP address, subnet mask, and default gateway. I also practiced using nslookup to query DNS servers and see how domain names are translated into IP addresses.
+
+Exploring IP Addresses: I gained a deeper understanding of how devices are assigned unique IP addresses and how those addresses are used for communication over the Internet. I explored both IPv4 and IPv6 addresses and learned the differences between the two.
+
+Understanding MAC Addresses: I explored the concept of MAC addresses, which are unique identifiers assigned to network interfaces. I used the ipconfig /all command to find my MAC address and learned how it’s used to identify devices on a local network.
+
+Domain Name System (DNS): I reviewed how DNS servers work to translate human-readable domain names (e.g., www.example.com) into machine-readable IP addresses. I used tools like nslookup to test DNS resolution and see the process in action.
+
+Packet Routing and 3-Way Handshake: I also studied how messages are routed over the Internet and how the 3-way handshake works during the TCP/IP connection process. I researched packet transfer methods and learned about how devices establish reliable communication over a network.
+
+Outcome:
+By completing this lab, I gained hands-on experience in examining network configurations, IP addressing, and DNS resolution. I also learned about the inner workings of the Internet, including routing, protocols, and how devices identify each other on the network.
+
+Conclusion:
+This lab helped me better understand the essential components of the Internet, how data is transmitted, and how devices are identified on a network. The hands-on practice with commands like ipconfig and nslookup gave me a clearer view of how IP addresses and DNS servers play crucial roles in online communication. This knowledge is essential for anyone involved in networking or cybersecurity.
