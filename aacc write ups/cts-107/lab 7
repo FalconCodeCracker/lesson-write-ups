@@ -1,0 +1,27 @@
+Module 7: Lab 7.1 Write-Up
+Objective:
+The goal of this lab is to explore the basics of networking, different network designs, network topologies, and the hardware required for building networks. Additionally, we will examine the OSI model and the TCP/IP protocol suite.
+
+Tools/Technologies:
+Technology in Action textbook (Networking chapter)
+Internet resources on networking concepts
+Network hardware devices (e.g., routers, switches)
+Networking tools (e.g., command prompt for testing network connectivity)
+Procedure:
+Reading and Research: I read the assigned sections from the Technology in Action textbook, which provided an overview of networking concepts, the OSI model, and the TCP/IP protocol suite. I also reviewed resources explaining common network hardware and the differences between network topologies.
+
+Hands-on Practice: I followed the instructions in Lab 7.0 to set up and practice basic networking tasks, such as connecting devices to a network. I used the command prompt to test connectivity between different devices and explored network topologies by simulating various configurations.
+
+Exploring the OSI Model: I learned about the seven layers of the OSI model and their functions, including how data is transmitted and received between devices. I practiced identifying which layers handle different aspects of communication (e.g., application layer, transport layer).
+
+Testing Connectivity with TCP/IP: I used TCP/IP protocols to test network connections. I performed tasks like checking IP addresses, using ping to test connectivity, and verifying network configurations. I also explored common networking tools like tracert to trace the path of data across the network.
+
+Networking Hardware: I reviewed different types of network hardware necessary for setting up a network, including routers, switches, and hubs. I also learned about the differences between wired and wireless connections.
+
+Network Topologies: I explored various network topologies, such as bus, star, and ring, and how each affects the performance and reliability of a network. I simulated network configurations using diagrams to visualize how devices are connected.
+
+Outcome:
+By completing this lab, I gained hands-on experience in setting up and managing a basic network. I also deepened my understanding of the OSI model, TCP/IP protocols, network topologies, and the importance of network hardware in connecting devices.
+
+Conclusion:
+This lab provided valuable insights into networking fundamentals, including how devices communicate in a network, how different network topologies work, and the protocols that enable data transmission. The hands-on tasks helped me understand how networks are built and maintained, which will be useful for both cybersecurity and network management roles.
