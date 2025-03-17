@@ -1,1 +1,31 @@
+Module 2: Lab 2.1 Write-Up
+Objective:
+The purpose of this lab was to deepen understanding of the physical components of a computer system. This included exploring various hardware components, their functions, and how data is processed, stored, and output from computing devices.
 
+Tools/Technologies:
+Technology in Action textbook (Chapters 2 and 6)
+Video on Binary & Data Flow in Computers
+Resources on CPU, RAM, ROM, Storage, and Networking Devices
+Video tutorial on installing a wireless NIC
+Procedure:
+Reading and Research: I started by reading Chapter 2, which covers the main functions of a computer system and how data flows through it. I also reviewed Chapter 6, which discussed hardware components and how to evaluate your system.
+
+Video Learning: I watched the video explaining how computers work with binary data. This helped in understanding how computers process data using binary numbers. Additionally, I learned about how different storage options, such as RAM and ROM, are used for storing data.
+
+Hands-on Practice: I completed Lab 2.0, which provided practice instructions for understanding and identifying various components of a computer system. The lab involved identifying types of input/output devices, examining the motherboard and RAM, and exploring different types of ports used in modern systems.
+
+Discussion Participation: I joined the discussion on ergonomics, discussing the ideal physical setup for using computing devices to ensure comfort and prevent strain during long periods of use.
+
+Lab Completion: Following the lab instructions, I gained hands-on experience in evaluating a computer system, including recognizing components like the CPU, RAM, and storage devices.
+
+Code Explanation:
+This lab didn’t require coding but focused on identifying and understanding the physical components of computer systems. The key takeaway was recognizing the relationships between the different parts of a computer and how they work together to process, store, and output data.
+
+Challenges:
+One of the more challenging aspects was understanding the intricate roles of each hardware component and how they work together in the overall system. It was also a bit tricky to fully grasp the power management options, especially when considering modern energy-efficient devices.
+
+Outcome:
+By completing this lab, I gained a solid understanding of how the different parts of a computer work together, including the CPU, RAM, storage devices, and input/output components. I now feel more confident in evaluating and understanding the hardware of a computer system.
+
+Conclusion:
+This lab reinforced my knowledge of the components inside a computer, and it helped me appreciate how these physical parts work together to allow a computer to function efficiently. I’m looking forward to diving deeper into system evaluation and understanding how to optimize performance in future labs.
