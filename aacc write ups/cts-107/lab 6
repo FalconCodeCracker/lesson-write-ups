@@ -1,0 +1,33 @@
+Module 6: Lab 6.1 Write-Up
+Objective:
+The goal of this lab is to understand the functions and characteristics of system software, specifically operating systems. We will focus on various aspects, including file and folder management, the registry, user interfaces (GUI and CLI), utility programs, and responding to malware attacks.
+
+Tools/Technologies:
+Technology in Action textbook (System Software chapter)
+Windows operating system
+Command Prompt (cmd.exe)
+Registry Editor
+Utility programs
+Procedure:
+Reading and Research: I read the assigned sections from the Technology in Action textbook, which covered operating systems, utility programs, file management, and the registry. I also reviewed the online resources provided, focusing on the registry, scareware, and command prompt.
+
+Hands-on Practice: I followed the instructions in Lab 6.0 to practice using both the Graphical User Interface (GUI) and Command Line Interface (CLI) to perform system tasks such as managing files and folders, using utility programs, and accessing the registry. I explored using the Command Prompt to perform basic file operations, such as copying, moving, and deleting files.
+
+Registry Exploration: I learned how to access and navigate the Windows registry using the Registry Editor. I used this tool to explore the structure of the registry and understand its purpose in managing system settings.
+
+Malware Awareness: I researched and explored the concept of scareware, understanding its nature and how it can impact users. I reviewed best practices for avoiding and responding to malware attacks.
+
+File and Folder Management: Using both GUI and CLI, I performed tasks like creating, renaming, and organizing files and folders. I also practiced managing disk space and improving system performance with the help of utility programs.
+
+Code Explanation:
+This lab primarily focused on system tasks rather than coding. However, using CLI commands such as dir, cd, copy, and del helped me manage files in the command prompt.
+
+Challenges:
+A challenge I faced was understanding the structure and role of the registry. The information about the various registry keys and values was a bit complex, but I was able to follow the instructions and gain insight into how the registry interacts with the operating system.
+
+Outcome:
+By completing this lab, I gained hands-on experience using both GUI and CLI tools to manage system resources, files, and settings. I also learned how the operating system interacts with the file system and the importance of the registry in system operations.
+
+Conclusion:
+This lab deepened my understanding of system software, including the functions of the operating system, file management, and the registry. I also gained practical experience in using the command prompt and managing system performance with utility programs. The knowledge of responding to malware attacks and avoiding scareware will help me stay secure while working with operating systems.
+
