@@ -1,46 +1,30 @@
-Part 1: Computer, Lab, and Textbook Resources
+Module 1: Lab 1.1 Write-Up
+Objective:
+The objective of this lab was to explore the foundational concepts of technology and its impact on the world. Through this exercise, I gained insights into the evolution of personal computers, emerging technologies, and the ethical debates that arise with technological advancements.
 
-  Personal Computer Information:
-    Computer Type: [Enter your computer type]
-    Brand/Manufacturer: [Enter brand]
-    Operating System: [Enter OS]
-  Azure Lab Services Registration:
-    Navigate to Azure Lab Services Registration
-    Sign in using AACC email and password
-    Locate and start the Windows 11 virtual machine (CTS-107)
-    Download and open the RDP file to connect to the virtual system
-    Log in using credentials:
-      Username: labadmin
-      Password: Network1
-  Set Up Microsoft OneDrive:
-    Open File Explorer in the virtual machine
-    Select OneDrive folder
-    Sign in using AACC email and password
-    Configure OneDrive for cloud storage access
-  Manage the Windows 11 Virtual Machine:
-    Resize and navigate between host OS and virtual machine
-    Open applications on both host OS and VM
-    Shut down Azure Windows 11 when finished
-  S Mode Check (Windows Users Only):
-    Navigate to Settings > System > About
-    Check Windows Specification section for S Mode
-    If in S Mode, follow the steps to disable it through Microsoft Store
+Tools/Technologies:
+Technology in Action textbook (Chapter 1 and Appendix A)
+Video on Artificial Intelligence: Generative AI Explained in 2 minutes
+Module 1 Learning Activities
+Online resources about the history of computers
+Procedure:
+Reading and Research: I began by reading Chapter 1 from Technology in Action, which covered the impact of technology on society and global issues. I also reviewed Appendix A, which detailed the history of personal computers from their inception to the present day.
 
-Part 2: Canvas Navigation
+Video Learning: I watched a short video explaining Artificial Intelligence (AI) and its generative capabilities, which provided a glimpse into the future of AI technologies and their implications on various industries.
 
-  Accessing the Canvas Classroom:
-    Log in to AACC Canvas
-    Navigate to the CTS 107 course page
-    Locate "Grades" in the navigation pane
-  Screen Capture Practice:
-    Take a screenshot of the "Grades" page
-    Save and submit as required for the lab
+Lab Instruction: I completed Lab 1.0, which offered detailed instructions on the history of computers and how modern technology affects national and global issues. This lab also highlighted the ethical challenges that arise with new technologies.
 
-Lab Submission Requirements:
-  Complete all sections and answer provided questions
-  Provide required screen captures
-  Ensure the use of a Windows 11 desktop via Azure Lab Services
-  Submit completed lab through Canvas
+Discussion Participation: I participated in the Module 1 Discussion on careers in cybersecurity, which allowed me to reflect on the ethical issues and opportunities in the rapidly evolving tech industry.
 
-This concludes the introductory lab for CTS 107. Proper setup of the Azure Lab environment and familiarity with Canvas are essential for success in the course.
+Code Explanation:
+This lab did not involve coding, but it focused on understanding the historical context and the emerging trends in technology. The key takeaway from this section was the importance of comprehending the evolution of technology to better understand its future impact on society.
+
+Challenges:
+The most challenging aspect of this lab was grasping the ethical debates surrounding emerging technologies like AI and cybersecurity. I spent some time reflecting on how these technologies might evolve and what ethical issues they could bring, particularly around privacy, security, and the role of artificial intelligence in our daily lives.
+
+Outcome:
+By the end of the lab, I gained a deeper understanding of the development of personal computer hardware and software, as well as how technology is shaping global and national issues. I also had a clearer picture of the ethical debates that arise with the adoption of emerging technologies.
+
+Conclusion:
+This lab was crucial in establishing the foundation for understanding the broader impact of technology on society. It highlighted not only the technical advancements in computing but also the ethical and societal considerations that come with them. I look forward to continuing to explore these topics as the course progresses, especially in the context of cybersecurity and its career opportunities.
 
