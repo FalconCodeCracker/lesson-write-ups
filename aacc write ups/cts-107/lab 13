@@ -1,0 +1,80 @@
+Module 13: Lab 13.1 Write-Up
+Objective:
+The goal of this lab is to demonstrate the ability to manage files and folders using the Linux command line, understand file and folder security, and use search commands within the Linux environment. Students will also practice creating basic Linux scripts.
+
+Tools/Technologies:
+Linux terminal
+Text editor (e.g., nano, vim)
+Procedure:
+Creating and Managing Files and Folders in Linux:
+
+I started by creating a folder and files in Linux using the mkdir and touch commands:
+bash
+Copy
+Edit
+mkdir my_folder
+cd my_folder
+touch file1.txt file2.txt file3.txt
+I used the ls command to list the files in the folder:
+bash
+Copy
+Edit
+ls
+I then created a subfolder and moved files into it using mkdir and mv:
+bash
+Copy
+Edit
+mkdir subfolder
+mv file1.txt subfolder/
+Understanding Linux File and Folder Permissions:
+
+I examined the file permissions using the ls -l command. This command shows the owner, group, and permissions for each file:
+bash
+Copy
+Edit
+ls -l
+I modified the file permissions using chmod. For example, I gave the owner write permission and removed group permissions for file2.txt:
+bash
+Copy
+Edit
+chmod u+w,g-r file2.txt
+Using Search Commands:
+
+I used the grep command to search for specific text within files. For example, I searched for the word "Linux" in file1.txt:
+bash
+Copy
+Edit
+grep "Linux" file1.txt
+I also used find to locate files within the directory:
+bash
+Copy
+Edit
+find . -name "*.txt"
+Creating Basic Linux Scripts:
+
+I created a simple shell script to automate tasks. For example, I wrote a script that lists all files in the directory and prints a message:
+bash
+Copy
+Edit
+#!/bin/bash
+echo "Listing all files in the current directory:"
+ls
+I saved the script as list_files.sh, made it executable with the following command:
+bash
+Copy
+Edit
+chmod +x list_files.sh
+I ran the script:
+bash
+Copy
+Edit
+./list_files.sh
+Lab Completion:
+
+I followed the instructions in Lab 13.0, which included practicing commands and writing basic shell scripts. The instruction lab provided step-by-step guidance on managing files and folders, working with file permissions, and using search commands.
+Outcome:
+By completing the lab, I successfully created, managed, and secured files and folders in Linux. I also learned how to use search commands such as grep and find, and I practiced creating basic shell scripts to automate tasks.
+
+Conclusion:
+This lab provided hands-on experience with essential Linux command-line skills, including file management, file permissions, and scripting. I now feel more comfortable navigating and managing files in a Linux environment and am prepared to create more complex scripts for automation and system management.
+
